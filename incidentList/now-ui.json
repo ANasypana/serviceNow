@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-526439-incident-list": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Incident list",
+				"icon": "chart-forecast-fill",
+				"description": "Dynamic incident list"
+			}
+	    }
+	},
+	"scopeName": "x_526439_test_in_0"
+}

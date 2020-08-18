@@ -1,0 +1,23 @@
+@import '@servicenow/sass-kit/host';
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.now-card-assist{
+  width: 600px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+h2{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.error-message{
+  color: red;
+}

@@ -1,0 +1,13 @@
+{
+	"components": {
+	    "x-526439-card-list": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Card List (mock data)",
+				"icon": "chart-forecast-fill",
+				"description": "Card List with mock data"
+			}
+		}
+	},
+	"scopeName": "x_526439_test_ca_1"
+}
