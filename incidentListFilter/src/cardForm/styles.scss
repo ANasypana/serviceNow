@@ -1,0 +1,31 @@
+.form {
+  &--group:not(:last-child) {
+    margin-top: 10px;
+  }
+
+  &--input {
+    font-size: 14px;
+    padding: 10px 6px;
+    border-radius: 1px;
+    background-color: rgba(#E8E8E8, .5);
+    border: none;
+    border-bottom: 2px solid transparent;
+    width: 80%;
+    display: block;
+
+
+    &:focus {
+      outline: none;
+      box-shadow: 0 8px 16px rgba(#4f4f4f, .1);
+      border-bottom: 1px solid #333;
+    }
+  }
+
+
+  &--label {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 7px;
+    display: block;
+  }
+}
